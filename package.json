@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "contentful": "^7.15.2",
+    "env-cmd": "^10.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-icons": "^3.11.0",
